@@ -73,11 +73,7 @@ Each folder in this repository illustrates an essential concept of programming, 
 
 <p align="left"> <a href="https://puppet.com/" target="_blank" rel="noreferrer"> <img src="https://puppet.com/images/logos/puppet-logo-white.svg" alt="puppet" width="70" height="70"/> </a> </p>
 
-- Language: Ruby
-
-<p align="left"> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="bash" width="40" height="40"/> </a> </p>
 
 ## Author
+Essien Mbereidem
 
-- Juan Camilo González <a href="https://twitter.com/juankter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juankter" height="30" width="40" /></a>
-<a href="https://bit.ly/2MBNR0t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bit.ly/2mbnr0t" height="30" width="40" /></a>
